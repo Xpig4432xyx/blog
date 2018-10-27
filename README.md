@@ -1,21 +1,14 @@
 <p align="center">
 	<img width="200" height="200" src="assets/img/logo.png" alt="logo">
 </p>
-<p align="center">
-	<a href="https://segmentfault.com/u/boohee">
-		<img src="https://img.shields.io/badge/segmentfault-薄荷前端-blue.svg?colorA=419766&colorB=5c5c5c" alt="">
-	</a>
-	<a href="https://juejin.im/user/5b1de502e51d4506cf10bc34">
-		<img src="https://img.shields.io/badge/掘金-薄荷前端-blue.svg?colorA=246ff6&colorB=5c5c5c" alt="">
-	</a>
-</p>
+
 
 ## 薄荷前端周刊
-- 😁 每周至少一篇技术分享在[Issues](https://github.com/BooheeFE/weekly/issues)，希望能够给一起走在前端路上的你带来一点小小的帮助 ⸝⸝⸝⸝◟̆◞̆♡
+- 😁 每周至少一篇技术分享在[Issues](https://github.com/Xpig4432xyx/blog/issues)，希望能够给一起走在前端路上的你带来一点小小的帮助 ⸝⸝⸝⸝◟̆◞̆♡
 - ✍️ 文章均为原创，可能来自基础回顾、工作总结、新技术探索等等 ଲଇଉକ
 - ❓ 有问题可以在文章下面留言，我们尽可能解答 ⚆_⚆
-- 📩 [Watch](https://github.com/BooheeFE/weekly/watchers) 即可自动订阅，新文章发布后第一时间推送到您的邮箱 ʕ•̫͡•ོʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔ
-- 💖 开源需动力，[Star](https://github.com/BooheeFE/weekly/stargazers) 是最好的赞美 ❛‿˂̵✧
+- 📩 [Watch](https://github.com/Xpig4432xyx/blog/watchers) 即可自动订阅，新文章发布后第一时间推送到您的邮箱 ʕ•̫͡•ོʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔ
+- 💖 开源需动力，[Star](https://github.com/Xpig4432xyx/blog/stargazers) 是最好的赞美 ❛‿˂̵✧
 
 ### 近期weekly
 - [2018/10/26 - 【react源码解读】- 组件的实现](https://github.com/BooheeFE/weekly/issues/21)
