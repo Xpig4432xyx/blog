@@ -26,12 +26,8 @@
 - [2018/07/22 - Vue-cli原理分析](https://github.com/BooheeFE/weekly/issues/9)
 - [2018/07/15 - JavaScript中的垃圾回收和内存泄漏](https://github.com/BooheeFE/weekly/issues/8)
 - [2018/07/08 - 异常处理，"try..catch"(译)](https://github.com/BooheeFE/weekly/issues/7)
-- [2018/07/06 - 浅谈web前端的发展趋势](https://github.com/BooheeFE/weekly/issues/6)
-- [2018/06/24 - 从0开始发布一个无依赖、高质量的npm](https://github.com/BooheeFE/weekly/issues/5)
-- [2018/06/16 - 结合 Vue 源码谈谈发布订阅模式](https://github.com/BooheeFE/weekly/issues/4)
-- [2018/06/11 - 前端项目性能优化之打包工具篇](https://github.com/BooheeFE/weekly/issues/3)
-- [2018/06/08 - 10分钟了解JS堆、栈以及事件循环的概念](https://github.com/BooheeFE/weekly/issues/2)
-- [2018/06/07 - 低门槛彻底理解JavaScript中的深拷贝和浅拷贝](https://github.com/BooheeFE/weekly/issues/1)
+- [浅谈web前端的发展趋势](https://github.com/BooheeFE/weekly/issues/6)
+- [10分钟了解JS堆、栈以及事件循环的概念](https://github.com/Xpig4432xyx/blog/issues/1)
 
 ### 欢迎参与
 如果你也恰好热爱技术、喜欢写文章，欢迎一起投稿，格式请按照ISSUE_TEMPLATE[发布新文章](https://github.com/Xpig4432xyx/blog/issues/new)，让我们一起帮助更多人！
