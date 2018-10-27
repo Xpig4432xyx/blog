@@ -34,4 +34,4 @@
 - [2018/06/07 - 低门槛彻底理解JavaScript中的深拷贝和浅拷贝](https://github.com/BooheeFE/weekly/issues/1)
 
 ### 欢迎参与
-如果你也恰好热爱技术、喜欢写文章，欢迎一起投稿，格式请按照ISSUE_TEMPLATE[发布新文章](https://github.com/Xpig4432xyx/blog/issues/new?template=issue_template.md)，让我们一起帮助更多人！
+如果你也恰好热爱技术、喜欢写文章，欢迎一起投稿，格式请按照ISSUE_TEMPLATE[发布新文章](https://github.com/Xpig4432xyx/blog/issues/new)，让我们一起帮助更多人！
